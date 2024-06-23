@@ -69,7 +69,7 @@ const index = () => {
                   <span class="px-3 py-3 py-lg-0">OR</span>
                   <h3 className="">
                     <a
-                      href="tel:+91 81530 08330"
+                      href="tel:1800 22 7979"
                       class="tel-no d-flex align-items-center text-white"
                     >
                       <svg
@@ -104,7 +104,7 @@ const index = () => {
                           class=""
                         ></path>
                       </svg>
-                      <span class="">+91 81530 08330</span>
+                      <span class="">1800 22 7979</span>
                     </a>
                   </h3>
                 </div>
