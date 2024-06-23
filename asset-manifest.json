@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/holidaypickup/static/css/main.aeeb495a.css",
+    "main.js": "/holidaypickup/static/js/main.6264f2e6.js",
+    "static/media/404.svg": "/holidaypickup/static/media/404.8c910645e0fa5fc364e6414f079a8525.svg",
+    "static/media/client4.jpg": "/holidaypickup/static/media/client4.3d6cfe434a01cee187d1.jpg",
+    "static/media/shlh2-thb.jpg": "/holidaypickup/static/media/shlh2-thb.ca9d908a1c767d4f4ff3.jpg",
+    "static/media/client2.jpeg": "/holidaypickup/static/media/client2.6ddb71b3f929d859b04c.jpeg",
+    "static/media/logo.png": "/holidaypickup/static/media/logo.25a3ae9f7a177e0b9a4d.png",
+    "static/media/client3.jfif": "/holidaypickup/static/media/client3.b8a7a80f92617530835a.jfif",
+    "static/media/client1.jfif": "/holidaypickup/static/media/client1.e84ee5ddbdd4c7cf718e.jfif",
+    "static/media/icon1.svg": "/holidaypickup/static/media/icon1.a904a32cefe733f811154e01cfcbc858.svg",
+    "index.html": "/holidaypickup/index.html",
+    "main.aeeb495a.css.map": "/holidaypickup/static/css/main.aeeb495a.css.map",
+    "main.6264f2e6.js.map": "/holidaypickup/static/js/main.6264f2e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeeb495a.css",
+    "static/js/main.6264f2e6.js"
+  ]
+}
