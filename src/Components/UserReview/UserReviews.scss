@@ -1,0 +1,63 @@
+.user-reviews {
+  margin: 0 auto;
+
+  .review-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+    .review-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+
+      .avatar {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-right: 10px;
+      }
+
+      .review-name {
+        font-weight: bold;
+      }
+    }
+
+    .review-content {
+      line-height: 1.6;
+    }
+  }
+}
+
+.user-reviews {
+  margin: 20px;
+}
+
+.swiper-container {
+  width: 100%;
+  height: auto;
+}
+
+.swiper-slide {
+  padding: 20px;
+}
+
+.review-card {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+  max-width: 300px;
+  margin: 0 auto; /* Centers the card horizontally */
+}
+
+.stars {
+  font-size: 20px;
+  color: gold;
+  margin-bottom: 10px;
+}
+
+.star {
+  margin-right: 3px;
+}
